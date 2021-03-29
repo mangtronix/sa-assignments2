@@ -14,7 +14,7 @@ void ofApp::update(){
 //--------------------------------------------------------------
 void ofApp::draw(){
     ofSetColor(200, 10, 10);
-    ofDrawCircle(ofGetWidth()/2, ofGetHeight()/2, 125);
+    ofDrawCircle(ofGetWidth()/2, ofGetHeight()/2, 200);
 }
 
 //--------------------------------------------------------------
